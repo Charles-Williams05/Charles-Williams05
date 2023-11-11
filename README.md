@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, my name is Charles.👋
 
+I'm currently studying a BSc Computer Science.
+I'm looking for help with HTML, CSS and Javascript as I am still a beginner.
+I'm currently working on my Intro to Web Authoring module.
+Ask me about my interests.
+You can reach me at charles.wil0501@gmail.com
 <!--
 **Charles-Williams05/Charles-Williams05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
